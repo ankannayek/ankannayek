@@ -1,3 +1,4 @@
+![logo](https://github.com/ankannayek/ankannayek/blob/main/giyu.gif)
 <h1 align="center">Hi 👋, I'm Ankan Nayek</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
