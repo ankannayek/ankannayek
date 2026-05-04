@@ -22,48 +22,133 @@
 
 <table style="border-collapse: collapse; text-align:center;">
 <tr>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br>AWS</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/><br>Bootstrap</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br>CSS</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br>Django</td>
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"><br><sub>AWS</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"><br><sub>Bootstrap</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"><br><sub>C</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"><br><sub>C++</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"><br><sub>CSS</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"><br><sub>Django</sub>
+</td>
 </tr>
 
 <tr>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br>Docker</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/><br>Express</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/><br>GraphQL</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/><br>Heroku</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br>HTML</td>
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"><br><sub>Docker</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"><br><sub>Express</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"><br><sub>Git</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"><br><sub>GraphQL</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"><br><sub>Heroku</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"><br><sub>HTML</sub>
+</td>
 </tr>
 
 <tr>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br>MongoDB</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/><br>Next.js</td>
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"><br><sub>Java</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"><br><sub>JavaScript</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"><br><sub>Linux</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"><br><sub>MongoDB</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"><br><sub>MySQL</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"><br><sub>Next.js</sub>
+</td>
 </tr>
 
 <tr>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br>Node.js</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/><br>Oracle</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br>PHP</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/><br>PostgreSQL</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br>React</td>
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"><br><sub>Node.js</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"><br><sub>Oracle</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"><br><sub>PHP</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"><br><sub>PostgreSQL</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"><br><sub>Python</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"><br><sub>React</sub>
+</td>
 </tr>
 
 <tr>
-<td style="padding:15px; border:1px solid #333;"><img src="https://reactnative.dev/img/header_logo.svg" width="40"/><br>React Native</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/><br>Redis</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br>Tailwind</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/><br>TensorFlow</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript</td>
-<td style="padding:15px; border:1px solid #333;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40"/><br>WordPress</td>
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://reactnative.dev/img/header_logo.svg" width="40"><br><sub>React Native</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"><br><sub>Redis</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"><br><sub>Tailwind</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"><br><sub>TensorFlow</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"><br><sub>TypeScript</sub>
+</td>
+
+<td style="padding:18px; border:1px solid #2f3542;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40"><br><sub>WordPress</sub>
+</td>
 </tr>
 </table>
 
